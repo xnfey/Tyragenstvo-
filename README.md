@@ -1,4 +1,4 @@
-<h1 align="center"> Sequence Diagrams <img src="https://cdn-icons-png.flaticon.com/512/6345/6345298.png" style="width:32px; height: 25px"> </h1>  
+<h1 align="center"> Sequence Diagrams <img src="https://cdn-icons-png.flaticon.com/512/6345/6345298.png" style="width:42px; height: 35px"> </h1>  
 <ul> <br>
 Диаграмма последовательности (sequence diagram) — диаграмма, предназначенная для представления взаимодействия между элементами модели программной системы в терминологии линий жизни и сообщений между ними.
   <ul> <br>
@@ -22,25 +22,4 @@
    
    
    
-   <h1 align="center"> Use Case Diagrams <img src="https://cdn-icons-png.flaticon.com/512/4547/4547312.png" style="width:32px; height: 25px">  </h1> 
-<ul> <br>
- Use case (также юзкейс, сценарий использования) – это сценарий взаимодействия пользователя (или пользователей) с программным продуктом для достижения конкретной цели. 
-  <ul> <br>
-  <p align="center"><b>Инструкция по открытию Use Case Diagrams: </b></p>
-  <ul>
    
-  <li> Выбрать ветку </li>
-  <li> Выбрать диаграмму </li>
-  <li> Нажать кнопку "Raw" </li>
-  <li> Нажать на правую кнопку мыши </li>
-  <li> В открывшемся окошке нажать "Сохранить как" </li>
-  <li> Скачать диаграмму на устройство </li>
-  <li> Открыть сайт diagrams.net </li>
-  <li> Нажать на кнопку "Файл" </li>
-  <li> Нажать на кнопку "Открыть из" </li>
-  <li> В появившемся списке нажать кнопку "Это устройство..." </li>
-  <li> Выбрать файл с диаграммой </li>
- <ul> <br>
-   Студента группы ИВ1-21 Соколова Павла <br>
-   Email: yung.tag@yandex.ru
-
