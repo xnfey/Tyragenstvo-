@@ -1,4 +1,4 @@
-<h1 align="center"> Sequence Diagrams <img src=![image](https://user-images.githubusercontent.com/114065962/201027066-6158ac6e-7399-4744-af09-0b9b000b9842.png) style="width:32px; height: 25px"> </h1>  
+<h1 align="center"> Sequence Diagrams <img src="https://cdn-icons-png.flaticon.com/512/6345/6345298.png" style="width:32px; height: 25px"> </h1>  
 <ul> <br>
 Диаграмма последовательности (sequence diagram) — диаграмма, предназначенная для представления взаимодействия между элементами модели программной системы в терминологии линий жизни и сообщений между ними.
   <ul> <br>
